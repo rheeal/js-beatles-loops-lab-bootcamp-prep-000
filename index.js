@@ -17,15 +17,15 @@ function johnLennonFacts(facts) {
   return facts;
 }
 
-function iLoveTheBeatles(number) {
+function iLoveTheBeatles(7) {
   var emptyArray =[];
   
   do {
   emptyArray.push("I love the Beatles!");
-  number++
+  7++
   }
   
-  while (number < 15);
+  while (7 < 15);
   
   return "I love the Beatles!"
 }
